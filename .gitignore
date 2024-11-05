@@ -1,0 +1,5 @@
+*.[oa]
+*.test
+*.log
+*.pid
+*.tmp
